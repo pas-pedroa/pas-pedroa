@@ -1,5 +1,11 @@
 ## Olá! Eu sou o Pedro Antonio 👋
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=738f9d&center=true&vCenter=true&random=false&width=1000&lines=Seja+Bem+Vindo+Ao+Meu+Repositorio" alt="Typing SVG">
+  </a>
+</div>
+
 Sou novo no GitHub e estou em busca de mais conhecimento e experiência na área de desenvolvimento de software. Toda ajuda, feedback ou contribuição são muito bem-vindas!🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pas-pedroa&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pas-pedroa&layout=compact&theme=tokyonight&show_icons=true)
