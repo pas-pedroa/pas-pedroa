@@ -22,7 +22,7 @@ Complemento:
 - ⚡ Rust
 
 ##
-![Snake Animation](https://https://github.com/pas-pedroa/pas-pedroa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pas-pedroa/pas-pedroa/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block"><br>
 <img alt="Pedro-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
