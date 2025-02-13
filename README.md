@@ -23,7 +23,7 @@ Inteligência Artificial e Machine Learning:
 - 📫 Scala
 - 🍜 SQL
 
-Complemento:
+Complementos:
 - 😄 C/C++
 - ⚡ Rust
 
