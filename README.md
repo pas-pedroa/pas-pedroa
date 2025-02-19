@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=738f9d&center=true&vCenter=true&random=false&width=1000&lines=Seja+Bem+Vindo+Ao+Meu+Repositorio" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=738f9d&center=true&vCenter=true&random=false&width=1000&lines=Seja+Bem+Vindo+Ao+Meu+Repositorio" alt="Typing SVG">
   </a>
 </div>
 
@@ -16,16 +16,19 @@ Arquitetura de Software e Cloud Computing:
 - 🔭 Java
 - 🌱 Python
 - 👯 JavaScript/TypeScript
-- 🤔 Go
+- 🤔 Golang (GO)
+- 🎻 C#
 
 Inteligência Artificial e Machine Learning:
 - 💬 Python
+- 🎃 Java/JavaScript
+- 🎯 Julia
 - 📫 Scala
-- 🍜 SQL
+- 😄 C/C++
 
 Complementos:
-- 😄 C/C++
 - ⚡ Rust
+- 🍜 SQL
 
 ##
 <picture align="center">
